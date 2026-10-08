@@ -1,0 +1,1997 @@
+{
+  "package": "hanzi-writer-data",
+  "version": "2.0.1",
+  "source": "https://cdn.jsdelivr.net/npm/hanzi-writer-data@2.0.1/",
+  "characters": {
+    "一": {
+      "strokes": 1,
+      "sha256": "ed728673d86fb9aa559c5b150e59ffbee666b085d4a55597c524079a91ebc8ce",
+      "bytes": 373
+    },
+    "丁": {
+      "strokes": 2,
+      "sha256": "b48d142a9b4e59aaf2d82354ebc153569de3862ba6d217077a970ea9b1e9b8e3",
+      "bytes": 728
+    },
+    "七": {
+      "strokes": 2,
+      "sha256": "03b69a950dffb72be4dafb6226641d9182858d439af9c945f2b0d52b5bc55510",
+      "bytes": 854
+    },
+    "三": {
+      "strokes": 3,
+      "sha256": "917763e15ac14a5ece5067913da4156f3060f33ae0e172d3533275a494cec99c",
+      "bytes": 732
+    },
+    "上": {
+      "strokes": 3,
+      "sha256": "9eed5643ff92171f9bf1ae5d4b70d717f2a3fd6961f72e81c0245ce13523d865",
+      "bytes": 862
+    },
+    "下": {
+      "strokes": 3,
+      "sha256": "34984a2541baae9132f32e3dfe758ca29df64829558dc5a1c553c3d3011da880",
+      "bytes": 879
+    },
+    "不": {
+      "strokes": 4,
+      "sha256": "2b4d1cabdf4af0788cba2d2e4645b87b4a56cdcc33907d2f61205bfd607572b6",
+      "bytes": 1286
+    },
+    "业": {
+      "strokes": 5,
+      "sha256": "5af383964161810b3b08f1b4a287a7d385046eb0a857834fec00907e74031edb",
+      "bytes": 1330
+    },
+    "东": {
+      "strokes": 5,
+      "sha256": "80c3dfd836941d9507af3bfbc2257564483e134954f11d412d165f445e4f5a20",
+      "bytes": 1519
+    },
+    "两": {
+      "strokes": 7,
+      "sha256": "d0a75c5e35abf6e97f381e02092d46f4c64ad53eb507b925cfb09f42094c79a7",
+      "bytes": 2390
+    },
+    "个": {
+      "strokes": 3,
+      "sha256": "d8c4bbbbd3fe835eeb07441afb37e19045797ce664aa0078204571c6597b6101",
+      "bytes": 918
+    },
+    "中": {
+      "strokes": 4,
+      "sha256": "6982c8c16e7e7f769011edef0608289443711dbb34046dd9ca763e79ec29192f",
+      "bytes": 1387
+    },
+    "串": {
+      "strokes": 7,
+      "sha256": "af14cf978a85938320763b376500579c7b487c6f0d372d76993a44a499405f1a",
+      "bytes": 2350
+    },
+    "为": {
+      "strokes": 4,
+      "sha256": "8e468f755fa6bf508a105d36e5c7709bed1a24060622bb9682e60fcc2fc98cfb",
+      "bytes": 1467
+    },
+    "么": {
+      "strokes": 3,
+      "sha256": "9bdbdeb1694fa92721c6f1d210a688a1db74b78a8888c99bbeeae5e0b45e5178",
+      "bytes": 1021
+    },
+    "乐": {
+      "strokes": 5,
+      "sha256": "e5b3d2904512d9b0ac920fabe82e7c5cf1be5bc8b1931f0fee5d59398284cd75",
+      "bytes": 1657
+    },
+    "九": {
+      "strokes": 2,
+      "sha256": "ec8fa16237207544c76a014c552c5f7c227813e300875a287f07a0b8b86dbe54",
+      "bytes": 1188
+    },
+    "也": {
+      "strokes": 3,
+      "sha256": "b382d98d228813ea32074caf8fee764b136593b5094579f4c00b2dd407c38dd3",
+      "bytes": 1625
+    },
+    "习": {
+      "strokes": 3,
+      "sha256": "c990f81baacb5b6ebd333f0a8c95eaf2e52847765622001f1c71c058105f021c",
+      "bytes": 1018
+    },
+    "书": {
+      "strokes": 4,
+      "sha256": "d913959d55b2bc53bec49bf50e44d6cf6df84d664cad9940c3983f061e4a6704",
+      "bytes": 1621
+    },
+    "买": {
+      "strokes": 6,
+      "sha256": "bc317b3af63af2e775ba0f0dd1086a5eed65abb98f726f86acbfe35740572174",
+      "bytes": 1731
+    },
+    "了": {
+      "strokes": 2,
+      "sha256": "63e33d9aece5d5a55d890793025d4964342f80ae92dee94232687deee76538be",
+      "bytes": 929
+    },
+    "事": {
+      "strokes": 8,
+      "sha256": "98b2e3488270e7bfa6b2d2ac9cc0254786ffef5d2fd75af7ab25b356aabaa752",
+      "bytes": 2964
+    },
+    "二": {
+      "strokes": 2,
+      "sha256": "24d4225b8514e5b169f44230ba38169f63e9d9875f31b478457841114dbe1faa",
+      "bytes": 582
+    },
+    "云": {
+      "strokes": 4,
+      "sha256": "0282daa7428445909b110092a75d4e2fe44c5268403f67eac8080d0e8a8f6918",
+      "bytes": 1159
+    },
+    "五": {
+      "strokes": 4,
+      "sha256": "c2d064e88c2acde1faecc4ff45f0d4ec7cd5889a3e4b7e8145019150ad6db7bd",
+      "bytes": 1370
+    },
+    "井": {
+      "strokes": 4,
+      "sha256": "e641ec122313909a141d512d6d6408e3ab4f593907baad82cc57d386f8a1249c",
+      "bytes": 1495
+    },
+    "亮": {
+      "strokes": 9,
+      "sha256": "5bd3e9921530588754ba63b062674b26482fd240e95d67d2943f3fde1449edda",
+      "bytes": 2821
+    },
+    "人": {
+      "strokes": 2,
+      "sha256": "18ffb9fb727576b0c3e7dc44914be7ffd43164de9ba121710824b83f27bd3bb1",
+      "bytes": 659
+    },
+    "什": {
+      "strokes": 4,
+      "sha256": "9bc6bb09b416264a378bd94f848b6a295b081d641f51ea6ced53927a66350e4a",
+      "bytes": 1334
+    },
+    "今": {
+      "strokes": 4,
+      "sha256": "09dc680091ec729b8a214c59099cb1dcbc0eabe51d5b4c4b5465ca2ff8fc9b6d",
+      "bytes": 1245
+    },
+    "他": {
+      "strokes": 5,
+      "sha256": "93c72a3fb00f00e9d7c3da8e2bf25e913bd3eba3c71eaafacc69f55891dc5625",
+      "bytes": 2087
+    },
+    "以": {
+      "strokes": 4,
+      "sha256": "90bcd05b200e7335bcbc6677f715dfe67b7d15ebb4ea083256a4bfdd377ca030",
+      "bytes": 1270
+    },
+    "们": {
+      "strokes": 5,
+      "sha256": "0a25764ae60803a9958ae3cade375c57d8743d7db0e0bf2031e73b0d0449609e",
+      "bytes": 1647
+    },
+    "件": {
+      "strokes": 6,
+      "sha256": "f3c7a57d23ec650db9147ea34732ef3d57c1eddb8ded94125172921f46442e6a",
+      "bytes": 1829
+    },
+    "休": {
+      "strokes": 6,
+      "sha256": "38d9571fe1ec07e7563fbae70241a75ed42785dd1ba8c1162708d6c156c978bc",
+      "bytes": 1762
+    },
+    "伙": {
+      "strokes": 6,
+      "sha256": "dc585c028cdc4b7fdd433d062f382bcf318097bd246b89ec9d033deed5fd3a5e",
+      "bytes": 1751
+    },
+    "会": {
+      "strokes": 6,
+      "sha256": "0eb3173ca95ffa3b8dfcf2f5ea11b312b3af7290dbf674c2dab04338351d09e4",
+      "bytes": 1748
+    },
+    "伞": {
+      "strokes": 6,
+      "sha256": "4449070b716bff06c1155c6dbd263ae4f36a6fb7c2a1bfba63f9e70d653b285a",
+      "bytes": 1626
+    },
+    "伴": {
+      "strokes": 7,
+      "sha256": "1a389ff5310d5e16803c1f553e2978fabab7492e2a5dedffb8f6808b0be0c009",
+      "bytes": 1983
+    },
+    "体": {
+      "strokes": 7,
+      "sha256": "70351417139d5501d31f98930f3d19aff1e847a67efde0e020673e195d319a57",
+      "bytes": 2052
+    },
+    "作": {
+      "strokes": 7,
+      "sha256": "546808c69ae8980719427a33a6b10a785dc4e51ff5900c3b3a4558ac4c2a2113",
+      "bytes": 1942
+    },
+    "你": {
+      "strokes": 7,
+      "sha256": "21057a26cb5c1753ea710d503b759cc17948263501ffd76ef1737cb2b5d5f966",
+      "bytes": 2106
+    },
+    "做": {
+      "strokes": 11,
+      "sha256": "d1beaea85e2d7fe88662573226ffc5ceb6700c24c4d364d0628c6088dae6cc5c",
+      "bytes": 3217
+    },
+    "儿": {
+      "strokes": 2,
+      "sha256": "9f1e8515ba0fbf39f3b03e0fdd2342771f0c7197fff7c2ceee64674b95bf2c68",
+      "bytes": 848
+    },
+    "元": {
+      "strokes": 4,
+      "sha256": "3853b0c44be20d7e40e467d0ee7636bc20e2408620230ec0ddba2c6695a67581",
+      "bytes": 1324
+    },
+    "兄": {
+      "strokes": 5,
+      "sha256": "f370276eb6c44b3615854bc5245eeaaadca0e8a0e83b25fabdeb90033cfc8060",
+      "bytes": 1604
+    },
+    "先": {
+      "strokes": 6,
+      "sha256": "20b7475d7a76d3e2233ef9bd28c1239392630fb1407565c325d3efbdc0445c19",
+      "bytes": 1848
+    },
+    "兔": {
+      "strokes": 8,
+      "sha256": "5d69cb0401a0d4fbbecd149ffac935058294e88c3751fd14ada6b81c29d2a503",
+      "bytes": 2693
+    },
+    "八": {
+      "strokes": 2,
+      "sha256": "650e961eefa88d95cc119146ff6606275ecad54c3f8ad1442c08889f928ec5af",
+      "bytes": 584
+    },
+    "公": {
+      "strokes": 4,
+      "sha256": "f486cccfeb549f77756de2d5086c83c1ebfcb7ce4cfafa2ba332b9700d1c8738",
+      "bytes": 1317
+    },
+    "六": {
+      "strokes": 4,
+      "sha256": "54216db5e4bcd45583584fbff169a25d10c3a34e0fa64f3c7a2267bc94398f86",
+      "bytes": 941
+    },
+    "关": {
+      "strokes": 6,
+      "sha256": "28d1c30ed1cda1ac8e0618bfe53010b6dc5bb5537670905a760a51d4d5a81399",
+      "bytes": 1673
+    },
+    "兴": {
+      "strokes": 6,
+      "sha256": "4138d58275de5a75c66be925ce5f789a1e90cad3bf897deaa454c5054f660713",
+      "bytes": 1511
+    },
+    "具": {
+      "strokes": 8,
+      "sha256": "dd9d86e20bb18484b0fb74e2921d261519bccc4427e4371a48ea0a4c7e3e9010",
+      "bytes": 2144
+    },
+    "再": {
+      "strokes": 6,
+      "sha256": "63c13624816b79b2edb3f6d04c494a1bc8fe89175e06c4f1e7452e2016e5224c",
+      "bytes": 2128
+    },
+    "冒": {
+      "strokes": 9,
+      "sha256": "48d64c8eb0c6c65456916b7898a6e957c33e2e7d91afa9c705c67918cbf16f77",
+      "bytes": 2499
+    },
+    "最": {
+      "strokes": 12,
+      "sha256": "1fbb552cdc5f6df59a08f9e45b19599c2bf3c6e4de8771a5947f4f188ba538b1",
+      "bytes": 3328
+    },
+    "写": {
+      "strokes": 5,
+      "sha256": "803022b32271801f05bd0931a18608b3319f7a9ffe0ea88093b19d539cf1941f",
+      "bytes": 1936
+    },
+    "冲": {
+      "strokes": 6,
+      "sha256": "fcae8456fce8d933e35057a412e569db5ab4a96fe6f467c0bc39e73d609cc49c",
+      "bytes": 1794
+    },
+    "净": {
+      "strokes": 8,
+      "sha256": "f7186c9e71f5fb809f0a4c278bdde0a2a3c4349efe6597886d20fc765a536c6b",
+      "bytes": 2714
+    },
+    "凉": {
+      "strokes": 10,
+      "sha256": "49ec973d16991b0d6cedc6da138f36a6d2cc0696d4f195552cfbc3a5196c8982",
+      "bytes": 2462
+    },
+    "几": {
+      "strokes": 2,
+      "sha256": "b730f3432a2e0697863f512fe5fbf8bef705a296fe657be4c7433102e1961a37",
+      "bytes": 1072
+    },
+    "出": {
+      "strokes": 5,
+      "sha256": "1b7e7176d1c5ca47f340e9ce28937f33929b6768ee20ea79f9129118b87f00a2",
+      "bytes": 1695
+    },
+    "刀": {
+      "strokes": 2,
+      "sha256": "aac96a5e729080db1d551df5cb73f179ebb0081796a833f7aae32a182e59d483",
+      "bytes": 896
+    },
+    "切": {
+      "strokes": 4,
+      "sha256": "8db3a82815e773e9dc575f8e26a2c3c48720f006c5eaef8fef21a2b1edd240b3",
+      "bytes": 1587
+    },
+    "到": {
+      "strokes": 8,
+      "sha256": "6aa5dd0897e0717edeae53ac983a92b81d22845423b59c5d7afe579f8096764d",
+      "bytes": 2312
+    },
+    "刷": {
+      "strokes": 8,
+      "sha256": "5187577f2025582e9c4c4cf66acb64fd9ce7f2e25b1b73882f8156d7349b0323",
+      "bytes": 2688
+    },
+    "前": {
+      "strokes": 9,
+      "sha256": "8126272afc54ca3a5bd512086901f4b3b40fcc43bcdf391fb60de3cb0dcd5c62",
+      "bytes": 2454
+    },
+    "力": {
+      "strokes": 2,
+      "sha256": "c51740470368f15b32d3f8ee1d7b0c93b6aa92c015f286c27137adfb2d7844a3",
+      "bytes": 959
+    },
+    "办": {
+      "strokes": 4,
+      "sha256": "86519e575e2beda61d6ae623cb2987bef47be6a2665b2ac66df4bc14fa731787",
+      "bytes": 1424
+    },
+    "动": {
+      "strokes": 6,
+      "sha256": "7d71cb3a5c9cf6f7bbdcef57379268087939ddfd9aa1a1e4b25cf9d2687e3fce",
+      "bytes": 2146
+    },
+    "包": {
+      "strokes": 5,
+      "sha256": "06c5b55a0acfd21621f9eef34bfb18c9de54320913d6b5f0aea44b36c6117d78",
+      "bytes": 1936
+    },
+    "匹": {
+      "strokes": 4,
+      "sha256": "678459b763646b0593109e69a06c60f2e5669dee45c9429c1289fa0ea0f9cb96",
+      "bytes": 1664
+    },
+    "十": {
+      "strokes": 2,
+      "sha256": "257a0939af5742ca31a980adfa1421d0302d5e90491ab3215c1934bea9a59bef",
+      "bytes": 677
+    },
+    "午": {
+      "strokes": 4,
+      "sha256": "9a520ddf8ad36f8ddece42e7bbc28b3cd9572d810d369c9e36e089913672a714",
+      "bytes": 1077
+    },
+    "半": {
+      "strokes": 5,
+      "sha256": "7f3a9c1766ccd8a44224babb7e106ad95e831b9a6f850fc89c6fd6f41e7b7099",
+      "bytes": 1413
+    },
+    "华": {
+      "strokes": 6,
+      "sha256": "e32b9051c9c6d724587b1ee0ad26b9ccc79a1c988350c21f4d0e52e830879499",
+      "bytes": 2080
+    },
+    "卡": {
+      "strokes": 5,
+      "sha256": "6033c71de755b80571b844a9aafe9663e9c73720abd912304aeb96a50aae3a99",
+      "bytes": 1320
+    },
+    "厂": {
+      "strokes": 2,
+      "sha256": "2313e9675adefdeacccef76ac9df3dc895eee2759b65a1e711cf8e39f2b3dd45",
+      "bytes": 600
+    },
+    "去": {
+      "strokes": 5,
+      "sha256": "96e01168e8c76add5a05de734f18ef282451ca9107757977e5d83d8eea2bc281",
+      "bytes": 1516
+    },
+    "又": {
+      "strokes": 2,
+      "sha256": "f69d714f3a4822dbc02c31969dafdf034307e3747f496e5b48b6004ee3e4ad49",
+      "bytes": 893
+    },
+    "友": {
+      "strokes": 4,
+      "sha256": "71a33320fedcb2d37b92c5bcc4b7d6aa9bd94dbd022719561711b5eb2338547b",
+      "bytes": 1532
+    },
+    "双": {
+      "strokes": 4,
+      "sha256": "085f47fbdfce748cb3cf9ef6f4f7f8cbd6cde794e3c882c08e48acfd1749675e",
+      "bytes": 1577
+    },
+    "反": {
+      "strokes": 4,
+      "sha256": "0c235f2258a870910097d2125f7bd6fd4275cde273409370a4c273995aa82d5f",
+      "bytes": 1501
+    },
+    "发": {
+      "strokes": 5,
+      "sha256": "2277fbd8beb585441eff987bb10b812881b0f96989e06efa257c12fa79b01134",
+      "bytes": 1971
+    },
+    "叔": {
+      "strokes": 8,
+      "sha256": "f94b059b4cf4b05259d0b249ab2101b8255c57fd5ab95aa31380603f96087aeb",
+      "bytes": 2380
+    },
+    "变": {
+      "strokes": 8,
+      "sha256": "33ee8fff141ba8fac72e7fb44f4c763b96e182adafdce3299a3af6f1ee91f421",
+      "bytes": 2171
+    },
+    "口": {
+      "strokes": 3,
+      "sha256": "ac208865e3166fc35214cec326f00a4b6788a8cac9b4c5a6a37745077e32ddab",
+      "bytes": 889
+    },
+    "古": {
+      "strokes": 5,
+      "sha256": "6650f3ca1588d6704ca24dff33929a30a99f577924582471d8860745882caf89",
+      "bytes": 1539
+    },
+    "句": {
+      "strokes": 5,
+      "sha256": "5f40875128cc785ddd0ce77c550513da374906e03a5c94fecd3578121bdb7bdd",
+      "bytes": 1800
+    },
+    "只": {
+      "strokes": 5,
+      "sha256": "ec97976657b097708528825c2b48ee6e5436f38982f279c9c79bcf77281cf274",
+      "bytes": 1271
+    },
+    "叫": {
+      "strokes": 5,
+      "sha256": "a5cc36373dc1a8ee08e4d3f1eb05ce1048c9a6d7dfc1936ce5ae17833c927278",
+      "bytes": 1536
+    },
+    "可": {
+      "strokes": 5,
+      "sha256": "70e04def3d8d3048392138b4c38132f9307eee194cfa2779b446baebf8163f12",
+      "bytes": 1558
+    },
+    "台": {
+      "strokes": 5,
+      "sha256": "966836873504e05df5ebcfe57718ca875e7d74cd43a2ab5e1c2e7d6551594bc2",
+      "bytes": 1562
+    },
+    "右": {
+      "strokes": 5,
+      "sha256": "d2483a266cd756c8deb1e4523e54fee29270ad4eb87a3b2bf1d40f9eb68de0cf",
+      "bytes": 1463
+    },
+    "叶": {
+      "strokes": 5,
+      "sha256": "184545665446cb80b42acdf21e0f07094e215e17d9f9ff4b6b02df87f908b73b",
+      "bytes": 1393
+    },
+    "吃": {
+      "strokes": 6,
+      "sha256": "7030e0da002dbc77d79821e9b78ab848777a8b9c0dabd1340b41b5fc1dd63a36",
+      "bytes": 1981
+    },
+    "合": {
+      "strokes": 6,
+      "sha256": "f2afe414f5f21f4aad46fbefae9ae4a2235fd0ec9ac466c25f565bc9788ceadd",
+      "bytes": 1605
+    },
+    "同": {
+      "strokes": 6,
+      "sha256": "ebac44738a64a0f7cb202363be8abfafe4aed2fc20965dd66f9b1f7555766967",
+      "bytes": 1914
+    },
+    "后": {
+      "strokes": 6,
+      "sha256": "1db954c5aa12b7c8efab666a716899c98e27c2b20312ae75df405bcf68cc5c91",
+      "bytes": 1748
+    },
+    "吗": {
+      "strokes": 6,
+      "sha256": "fd15dc345d5413ebf4bb3517b7b616890b0a948f62a70a21a2a8eed4eed78583",
+      "bytes": 2265
+    },
+    "听": {
+      "strokes": 7,
+      "sha256": "f4be99b28792eb4915420affcc4ce6e73f1c7e0f8dd458b75095b24ca841bd51",
+      "bytes": 1953
+    },
+    "周": {
+      "strokes": 8,
+      "sha256": "3a97a8543afd77a082812101deab1e0d81aa75bb453e9553207d72a7d3aea73e",
+      "bytes": 2481
+    },
+    "和": {
+      "strokes": 8,
+      "sha256": "bf6e21b489970be6af9bb0e8337920632072b1dbbe0e9d216c314623cbd1c0e8",
+      "bytes": 2092
+    },
+    "哥": {
+      "strokes": 10,
+      "sha256": "0a0ccb90dba97ea99d1850523f46a7731bc0754e24b2fde3b880f00816e4edfa",
+      "bytes": 2629
+    },
+    "哭": {
+      "strokes": 10,
+      "sha256": "bfae2d927ab6a4b6cab7db79fe6a91b3a6fef4cd195db748fc26b12cf26d8b5c",
+      "bytes": 2693
+    },
+    "唱": {
+      "strokes": 11,
+      "sha256": "474d06fd4fd9ba7b070603274c97854e0daf787bc2cc26f9a472454549f018d4",
+      "bytes": 3109
+    },
+    "商": {
+      "strokes": 11,
+      "sha256": "75bd5dc4f2d847527a0dd0f8674a4fa0b3cce132af72ca1d3234240b383850c1",
+      "bytes": 2961
+    },
+    "啊": {
+      "strokes": 10,
+      "sha256": "cb3a1732ccec5b6dcf939ebe269e1cb749925df9e3dc1ae7f5b3469a740e5624",
+      "bytes": 3105
+    },
+    "喜": {
+      "strokes": 12,
+      "sha256": "779326b147f56c81159f2d732347e50549a994e0b0b190845dc6355a74215a43",
+      "bytes": 3170
+    },
+    "喝": {
+      "strokes": 12,
+      "sha256": "bf7840cc0811e59e4db4a35f476af88054625cac10e87b0338c2c267b37dca9a",
+      "bytes": 3680
+    },
+    "四": {
+      "strokes": 5,
+      "sha256": "8aa7b3e16a0c3f67fc4ed3b08c7f24e80b2e90d8f6ade512d20109a625bea3b9",
+      "bytes": 1800
+    },
+    "回": {
+      "strokes": 6,
+      "sha256": "2987e137d9a4bdbb061bd78dd315fe0d520eaa6d65dc5e48e3d6f8c907a06e8b",
+      "bytes": 1848
+    },
+    "因": {
+      "strokes": 6,
+      "sha256": "ad7a3b6c044327ed5254585594c0cd7dadb1ad0c47555f5564d3e404ee42429b",
+      "bytes": 1969
+    },
+    "园": {
+      "strokes": 7,
+      "sha256": "c1f1de9a57ed4d071ee84570a57c4ec64b83d6db4bdb5492b9282af8f12e5aef",
+      "bytes": 2331
+    },
+    "国": {
+      "strokes": 8,
+      "sha256": "40b46b7cbe5c292abcf79507dc544c5424c9cfa4df0376aa3b8fa42e535c2f7f",
+      "bytes": 2318
+    },
+    "图": {
+      "strokes": 8,
+      "sha256": "20bb2b91174fcfc9cce70f9ae6afa35dec765250e210544e4ffe28edaeaf0a84",
+      "bytes": 2590
+    },
+    "圆": {
+      "strokes": 10,
+      "sha256": "dfb040599b2a56b6c0bbee9aa3165316f3ac065fb144b14148e0162afc51f32f",
+      "bytes": 3061
+    },
+    "土": {
+      "strokes": 3,
+      "sha256": "f1f7bfa95a5821fa27573560d3c88552a9e70a3fd3816724cbd441b5c07d17ee",
+      "bytes": 856
+    },
+    "在": {
+      "strokes": 6,
+      "sha256": "ec45f668f3181cd2c612797ff557f5b53f8823f120eca5d9a68e0fd8b1b0f21c",
+      "bytes": 1883
+    },
+    "地": {
+      "strokes": 6,
+      "sha256": "ec1d89cb0ee0f4c93d546d561ea28b00f0378769c061ec5bf5f67381074765a3",
+      "bytes": 2325
+    },
+    "场": {
+      "strokes": 6,
+      "sha256": "d8a75696c0f8f53dc8cf3cac63416e0c9ddf93b61307bc574bfd7f429337b6bc",
+      "bytes": 2379
+    },
+    "坏": {
+      "strokes": 7,
+      "sha256": "2c362f39d47cf5786932f90ffddb65193ab2937d8c354c9a9f4bbfabc9d3af64",
+      "bytes": 1962
+    },
+    "坐": {
+      "strokes": 7,
+      "sha256": "b01ef6333805198f5b9d9443b6a157ae94d3233a30fa9d090a72e586b116d255",
+      "bytes": 1912
+    },
+    "士": {
+      "strokes": 3,
+      "sha256": "9ef5774bf258ffa9d75d25b5598cbeccdc0bc36634e536b4b54f0fe3ef028006",
+      "bytes": 953
+    },
+    "声": {
+      "strokes": 7,
+      "sha256": "0817145c8ef06b484b39a5eec099f177536e2558437579bf5d5036b40d208780",
+      "bytes": 2019
+    },
+    "外": {
+      "strokes": 5,
+      "sha256": "bab290c36ee093d6c2df1b9d95d3dbbcdf492dc108f3a7e81f0ac13cd8726d5c",
+      "bytes": 1505
+    },
+    "多": {
+      "strokes": 6,
+      "sha256": "d7bc212fe60eaa766209b36e5e9642940892cf43b472accedaf55f517d8313dc",
+      "bytes": 1858
+    },
+    "大": {
+      "strokes": 3,
+      "sha256": "83c82950e903c915aa50d0d62b084a2d31c85fe68dce21e0acf39e2f9607e611",
+      "bytes": 1034
+    },
+    "天": {
+      "strokes": 4,
+      "sha256": "8cacde3b91b815c7c667e80e6d4838e3b7dc30ab457763e32d29c1586b0d2446",
+      "bytes": 1228
+    },
+    "太": {
+      "strokes": 4,
+      "sha256": "b71a20e1c0c68563b8a58a75749f48ac4a095c7d05136c5dbd858a318fbe234e",
+      "bytes": 1300
+    },
+    "头": {
+      "strokes": 5,
+      "sha256": "3be11ae6a2e035f7a949c948279ad3f4d456a87e2ee0469d583e22648759901d",
+      "bytes": 1365
+    },
+    "女": {
+      "strokes": 3,
+      "sha256": "8a17d3644493617f0090476873c0e01c25d83271e586c097e40ef0256ced5ac8",
+      "bytes": 1345
+    },
+    "奶": {
+      "strokes": 5,
+      "sha256": "151460436d8c0f29b05af02b03e456d0232f4dc9f1bfae3b2b551aa8a99d3aa9",
+      "bytes": 2357
+    },
+    "她": {
+      "strokes": 6,
+      "sha256": "4e69fc6340529cfbdf572a98f3bd6f934233186943b931b59e1a3c65464518c2",
+      "bytes": 2668
+    },
+    "好": {
+      "strokes": 6,
+      "sha256": "c9f085fe6519e2b2c9653c7edf51bdbc78339fcc0b10f94c1f33c7f4f4d4a3a5",
+      "bytes": 2374
+    },
+    "妈": {
+      "strokes": 6,
+      "sha256": "0b288b695765e1294ca2cbc2b463227b637047932ebdab2ff9cddba6c1d576b2",
+      "bytes": 2577
+    },
+    "妹": {
+      "strokes": 8,
+      "sha256": "10b03e84339e4b9033d1bd9a4b1fba91ab872f810af3f6633c667872e606a7c3",
+      "bytes": 2612
+    },
+    "姐": {
+      "strokes": 8,
+      "sha256": "e4fcebaec74b9a53077e2d6e067fdfdca4470aa36f23246c7a03f96e5ab000c6",
+      "bytes": 2497
+    },
+    "子": {
+      "strokes": 3,
+      "sha256": "f5b7ff9aa3de64ec676e3f06e7c22795aa834eb11eec43b9423f355db5f46474",
+      "bytes": 1366
+    },
+    "字": {
+      "strokes": 6,
+      "sha256": "d4e20f90c64acc1427d41e693c7151f3ea389eb10d8ce7f2c98613b01c6d1baf",
+      "bytes": 1967
+    },
+    "学": {
+      "strokes": 8,
+      "sha256": "9f2bdcab70ecf93632b6cf1ce9b5339cc8018d742eed7839037d146f8c294193",
+      "bytes": 2396
+    },
+    "孩": {
+      "strokes": 9,
+      "sha256": "6fa9400ce8f719a6a6fb46784fb92faacd0244e2096adacaab36412cae755950",
+      "bytes": 2734
+    },
+    "它": {
+      "strokes": 5,
+      "sha256": "a0928b9f0c278b71354633c9b3f3b57279c6bc2bf055beefc9589fde6951f524",
+      "bytes": 1583
+    },
+    "安": {
+      "strokes": 6,
+      "sha256": "654830c5bfda6086c1ee48536ef8fe89f0c56112152dba149801f023c9627295",
+      "bytes": 2124
+    },
+    "完": {
+      "strokes": 7,
+      "sha256": "2073070ab43a5ec748388273e3e52b4eeca7efd6486a326cc472160cc22be944",
+      "bytes": 2061
+    },
+    "室": {
+      "strokes": 9,
+      "sha256": "e2b3399e15648522565b3f4dbe529fb07928f541eeee23119c7def8389a0b072",
+      "bytes": 2541
+    },
+    "家": {
+      "strokes": 10,
+      "sha256": "390ad42ee60491df2ae9ddfd59358d4d6ff69208ccdac902aae0431b7e5f9aef",
+      "bytes": 2774
+    },
+    "寸": {
+      "strokes": 3,
+      "sha256": "f4604c426c945dd104619650a7a54935c033fcb24f2c6c741906faf0a8f09397",
+      "bytes": 1044
+    },
+    "对": {
+      "strokes": 5,
+      "sha256": "34cb1a64ee2a7794faec417b950b8a026efe6fc3779d09e363d6b383461f569a",
+      "bytes": 1687
+    },
+    "小": {
+      "strokes": 3,
+      "sha256": "72bf769c8c3426bffa578502eb8b1532fb1e622ddb6f40ded04e484290c0fe8c",
+      "bytes": 830
+    },
+    "少": {
+      "strokes": 4,
+      "sha256": "de5cd9d5b1bbd468411f82f7d57881b11b3a9b9c7bb812ff891ac66c06b31ef7",
+      "bytes": 1050
+    },
+    "尖": {
+      "strokes": 6,
+      "sha256": "c667c690a562e8d8b0d360d90f0e8ccff1a8cad5a0348fe5e461d72b21201dbc",
+      "bytes": 1589
+    },
+    "尺": {
+      "strokes": 4,
+      "sha256": "bb53ce9fc6486d2ab0d42ecb70f9db2446a4c42ceb4d35c071191a3dd22cadbe",
+      "bytes": 1264
+    },
+    "尾": {
+      "strokes": 7,
+      "sha256": "b91fcba3509243680e1017f925d9c365d56c593500c44766b931c488dcc6f320",
+      "bytes": 2418
+    },
+    "屋": {
+      "strokes": 9,
+      "sha256": "833d0033c5e6a6f32a1046132de5d7aa281981a4bcc5b2716b76dedd2bf0bde0",
+      "bytes": 2632
+    },
+    "山": {
+      "strokes": 3,
+      "sha256": "c1e58c4b20cba28ae9778dfb280a93dc18fdccd3ecbec00bece20ce739c9f459",
+      "bytes": 977
+    },
+    "工": {
+      "strokes": 3,
+      "sha256": "a1d8521d2b9c64ed6818fc9314dea0b59499b2652dad15a4cf361d37893c4bcb",
+      "bytes": 896
+    },
+    "左": {
+      "strokes": 5,
+      "sha256": "a5741d50aea9247117aee3a150b7707ddaf9193b94032e3616cff9415f9dc1ed",
+      "bytes": 1360
+    },
+    "己": {
+      "strokes": 3,
+      "sha256": "318727d2358115b813a9ac45b8b26033df9cdc5faa6e6042f641d3e92fbf8caf",
+      "bytes": 1132
+    },
+    "巴": {
+      "strokes": 4,
+      "sha256": "9abda8052e5fe8c415fbdfd57fc6947dd5016b3536e397da46580404a14022ee",
+      "bytes": 1469
+    },
+    "巾": {
+      "strokes": 3,
+      "sha256": "e1c1ed3205109a87671ba5bee21a2af2f1e46f0b60d1f39a07c511e45fa7e508",
+      "bytes": 1188
+    },
+    "师": {
+      "strokes": 6,
+      "sha256": "80d528921fbb75b21ed1737f622adbb8e9da7b71b143a64382568f22ff812093",
+      "bytes": 2006
+    },
+    "带": {
+      "strokes": 9,
+      "sha256": "8d62f5e48a73aaede44ee6dc91d2995de9b018b9bb828bc40dae68909e0d5dad",
+      "bytes": 2979
+    },
+    "帮": {
+      "strokes": 9,
+      "sha256": "bedc44702b264ee23d6d6cd0d2d6967a8d32b3c98918f16b643c8e5277430262",
+      "bytes": 3279
+    },
+    "常": {
+      "strokes": 11,
+      "sha256": "e2adfad55f16edc7de6c7dff6cf78cd79b874f7387aa63d61971900fc3d09db0",
+      "bytes": 3131
+    },
+    "幅": {
+      "strokes": 12,
+      "sha256": "786b8193f6d4b56cc83439489da0005b53d6ac5a86440a1845947371782ef931",
+      "bytes": 3620
+    },
+    "干": {
+      "strokes": 3,
+      "sha256": "5e3b240f9a912cd4c0f5bc6c9b9f8e15d93a0dd2e33055ac2d3cc08f2ef61822",
+      "bytes": 946
+    },
+    "广": {
+      "strokes": 3,
+      "sha256": "0c11f22d3152ff319f3cabeb80c4045034e558e76b58509f8487dc7c5872b5c9",
+      "bytes": 795
+    },
+    "庆": {
+      "strokes": 6,
+      "sha256": "bbea7a94d4c04c03b117342dbb12f4a35d15f26e4ce62b20aa4730f26a090350",
+      "bytes": 1722
+    },
+    "床": {
+      "strokes": 7,
+      "sha256": "61e32987825856552772bfaf429cc5ef9a9f4b7a7a61b415b749670c07cb1954",
+      "bytes": 1982
+    },
+    "店": {
+      "strokes": 8,
+      "sha256": "1d5d0424731bf4b7f76f38258b575d1c8c209ed2055ae59810745e12b6119878",
+      "bytes": 2152
+    },
+    "开": {
+      "strokes": 4,
+      "sha256": "0b4efab7fc994927f4244f1c6d79a7012668a9c7cbdbc40a45d0bcf9b4cbbd49",
+      "bytes": 1446
+    },
+    "弓": {
+      "strokes": 3,
+      "sha256": "4239bd8f41b6f0971061566023b4c64e713ec24a1e70e53d4d878bb4131ae239",
+      "bytes": 1252
+    },
+    "弟": {
+      "strokes": 7,
+      "sha256": "9a89eaf0eef53c73f69bd3cd9f53fd0e628c4c663b13f6c0a4c3773b3071a735",
+      "bytes": 2487
+    },
+    "张": {
+      "strokes": 7,
+      "sha256": "2b7abf0be39617ac5b3f68917dac2e6520c926aa2f7b0f2af6c2b50c19cb682d",
+      "bytes": 2558
+    },
+    "弯": {
+      "strokes": 9,
+      "sha256": "4b1ef18f523a3e4041a53a97361bd71520696040bb5f1174f811a62c3b4e3a76",
+      "bytes": 2565
+    },
+    "很": {
+      "strokes": 9,
+      "sha256": "b34ddabdd9034dfa73a413d9f83aec96451f97d75e8a553505a7fbe442c57356",
+      "bytes": 2657
+    },
+    "心": {
+      "strokes": 4,
+      "sha256": "24b00ca173bbf7403181af1a4f9414f3b9175ed04b17108055c7d9e3fe6d6215",
+      "bytes": 1107
+    },
+    "快": {
+      "strokes": 7,
+      "sha256": "6fc5f91ce08bf4fd5cb968ff7153a140a28e8b6e8656018505fd8b3c6bade87c",
+      "bytes": 2162
+    },
+    "怎": {
+      "strokes": 9,
+      "sha256": "a3f5b3be91848f0396185458d9810ab0c037e6d99bb4a2f3cb38b3475e79ee2d",
+      "bytes": 2313
+    },
+    "息": {
+      "strokes": 10,
+      "sha256": "429a66a7e77a9e35885f4a27c526c5f9199351068840ced9bbedb5ace41d05ac",
+      "bytes": 2761
+    },
+    "想": {
+      "strokes": 13,
+      "sha256": "9e3bf868a8170c4deb5c1fc39ffd42ef1a119bb55d742028777fb7ebfb23e885",
+      "bytes": 3365
+    },
+    "感": {
+      "strokes": 13,
+      "sha256": "0569e7a0e167b4a67f9d6d5ef3c552969504c72f2c98c25df99d1df25abf7018",
+      "bytes": 3453
+    },
+    "戏": {
+      "strokes": 6,
+      "sha256": "9b11dfb36f5ab2341833c0f9600d4e51fd19f8726076316461780e609573f172",
+      "bytes": 2153
+    },
+    "我": {
+      "strokes": 7,
+      "sha256": "08616462fc64b4c18c76a3f68a992305e98946f468bf42ec76ca9be1cd6c5ac8",
+      "bytes": 2476
+    },
+    "户": {
+      "strokes": 4,
+      "sha256": "7eb536b593113e847ba72052c0414958cbb2dcfafefb22b07a420343b5c41e89",
+      "bytes": 1216
+    },
+    "房": {
+      "strokes": 8,
+      "sha256": "8f595e59111f1bd1044fb117f7d26485885367982c49ed044c9536bc42633718",
+      "bytes": 2362
+    },
+    "手": {
+      "strokes": 4,
+      "sha256": "7964eac3bced473343f5741f98fea3eb2dd842eecd57ec20b4369912570964a7",
+      "bytes": 1358
+    },
+    "打": {
+      "strokes": 5,
+      "sha256": "d87d2a216a25000dd03a25c69365ab4780a432f81edba42c1671d60f9872afe9",
+      "bytes": 1589
+    },
+    "扫": {
+      "strokes": 6,
+      "sha256": "e52722a3be01e6807cc02ff7d9387432b65972581f4edaa1ce7676d383a6b6cf",
+      "bytes": 1823
+    },
+    "扶": {
+      "strokes": 7,
+      "sha256": "8ecdd67003ce15cd54a2cb1006a0ae321b8f65ca94f3ac0a076b7a214ec2b0c3",
+      "bytes": 2210
+    },
+    "把": {
+      "strokes": 7,
+      "sha256": "0fc972bab80ed2f5336535665906cae41e4bec94cc0b2b7496e3f453e4acd48f",
+      "bytes": 2402
+    },
+    "抱": {
+      "strokes": 8,
+      "sha256": "cfd5603ecc93e13e8eda50583c86e5ae8b2ce3f69d39dc1ebe650c6892bfe546",
+      "bytes": 2905
+    },
+    "抹": {
+      "strokes": 8,
+      "sha256": "001d98f79be5acf9d1275cc08f9e6d2af0ddb1d86bb76c00d6bf44f1ddf2399a",
+      "bytes": 2479
+    },
+    "拍": {
+      "strokes": 8,
+      "sha256": "e72d0a0c0a90d526395f2cb56ff77ef356907362940070694a059e2f6697dc70",
+      "bytes": 2459
+    },
+    "拾": {
+      "strokes": 9,
+      "sha256": "10f453fcc25280c6e6addac77382648cd7e21bd68581e1b7d24db471cf106f12",
+      "bytes": 2636
+    },
+    "拿": {
+      "strokes": 10,
+      "sha256": "65642c4daed022077bd4867703a1cde25211e6de0b98e9168866ac384f060571",
+      "bytes": 3060
+    },
+    "挂": {
+      "strokes": 9,
+      "sha256": "3515f3c657b31dee51ed0f07f18fd3df73233afcc0825f59a0dbb915bbaeba93",
+      "bytes": 2608
+    },
+    "摸": {
+      "strokes": 13,
+      "sha256": "77eb713686fa1c4a7824b5b7fc99e51cd060246b14150a0b6b21f29e57a0906b",
+      "bytes": 3842
+    },
+    "支": {
+      "strokes": 4,
+      "sha256": "eedb382470dfe005c782caea7475a49bf07830d101467e2e7070b5a8b34cdfa8",
+      "bytes": 1433
+    },
+    "收": {
+      "strokes": 6,
+      "sha256": "59087fffd944b641057377c1754f5f4e5ef10c203a354d2617fce768d6b8f7a5",
+      "bytes": 2066
+    },
+    "放": {
+      "strokes": 8,
+      "sha256": "10a9dffde3373a55bb6b741e08ec12246815409bf8570967c0cff659f767a32d",
+      "bytes": 2445
+    },
+    "故": {
+      "strokes": 9,
+      "sha256": "1c11ef32ccb59fa0bdf8c9ebea4af17bb8bb5b68c302f38163ca81880020cb74",
+      "bytes": 2620
+    },
+    "散": {
+      "strokes": 12,
+      "sha256": "77f6377dd42497862969591992788eeb1c41da5005a4a1f0f31cb176c270802a",
+      "bytes": 3594
+    },
+    "文": {
+      "strokes": 4,
+      "sha256": "da58df874e176b10cbda075bb800aaa486fc716476a563fcc83f8f06b2169dbe",
+      "bytes": 1257
+    },
+    "斤": {
+      "strokes": 4,
+      "sha256": "87283ed709ff54f401fb8bb60f9242bd35ac4184c2c47b46580ce0456cd578d8",
+      "bytes": 1190
+    },
+    "新": {
+      "strokes": 13,
+      "sha256": "8f631d5c3b6bce07807edcbd80f38c6966c0e982f8d051b56b3fe73642e3503c",
+      "bytes": 3330
+    },
+    "方": {
+      "strokes": 4,
+      "sha256": "d643e7b430d9ecf2a81676aa4fae8b06981a4cd811d3b035f0278a72362e3a6a",
+      "bytes": 1359
+    },
+    "旁": {
+      "strokes": 10,
+      "sha256": "256e986f64bcd8c01413f2df0b920460c84f9326c698353e21b72c5020a2a019",
+      "bytes": 2778
+    },
+    "日": {
+      "strokes": 4,
+      "sha256": "5c6bad210149abac8bd645cb12b1394edea5681f224154c27f422134299520fb",
+      "bytes": 1300
+    },
+    "旧": {
+      "strokes": 5,
+      "sha256": "5af1ed6852220f4bb0641e26d68f6469b6cc62d221dbc57b139021acb40e230a",
+      "bytes": 1405
+    },
+    "早": {
+      "strokes": 6,
+      "sha256": "4d6b2979bd1167355372cf73800a2ce13032febb989b8bf5901e6a7dbe773454",
+      "bytes": 1858
+    },
+    "明": {
+      "strokes": 8,
+      "sha256": "15468d4fcd2c430aa5b57e8765ce043f6965d421e24cabdf66d2c899b16c6943",
+      "bytes": 2489
+    },
+    "星": {
+      "strokes": 9,
+      "sha256": "21780a0d4c52c4e5f236bd18d3aacb4101d5ce17375442cdc64564a000330945",
+      "bytes": 2569
+    },
+    "昨": {
+      "strokes": 9,
+      "sha256": "6e5daca94483c96d1e4c2cadf281d196a498d0159a7801a725f9c73ed5721c18",
+      "bytes": 2501
+    },
+    "是": {
+      "strokes": 9,
+      "sha256": "73249157dc9e08c1eb3fb029ca12288b15c597f85eb4a6c72f5bdc6893ded27b",
+      "bytes": 2411
+    },
+    "晚": {
+      "strokes": 11,
+      "sha256": "b545c3866d2705e569fe1784f74f505ae6f10eaa7a7fdb4068bc539569485085",
+      "bytes": 3494
+    },
+    "月": {
+      "strokes": 4,
+      "sha256": "441949321eb706def6e8d0c1eeca6b461141703dcc07619939a32d681e08fc46",
+      "bytes": 1389
+    },
+    "有": {
+      "strokes": 6,
+      "sha256": "cee2fb732f41de30a7b0c84880d2d47af0a9fda6fda795d99c77a57f2ee4c8e4",
+      "bytes": 1862
+    },
+    "朋": {
+      "strokes": 8,
+      "sha256": "f67483634bf14bcd59db35d94c7e1f560ee78be33c14754c43ad201cf98d7622",
+      "bytes": 2490
+    },
+    "服": {
+      "strokes": 8,
+      "sha256": "b6b4c141c9abab48aa7b7e9d00d159cf922cf8627783921d81288df95bfe7115",
+      "bytes": 2780
+    },
+    "期": {
+      "strokes": 12,
+      "sha256": "806ca46deb664ece4372b7201d1eca656d34c38848537fb8adbae719170e227a",
+      "bytes": 3204
+    },
+    "木": {
+      "strokes": 4,
+      "sha256": "2b5bb221b4403a303a567756304545a104d915117cc0f1b3fdea71e7928dfc50",
+      "bytes": 1131
+    },
+    "末": {
+      "strokes": 5,
+      "sha256": "1850548334ce588300beb295770aebff693f5717ce2a15dd53972901bb3b7242",
+      "bytes": 1537
+    },
+    "本": {
+      "strokes": 5,
+      "sha256": "1507bfab8ff404936abc31790252d16b5eddf769b85791d89bc9c61c668fa838",
+      "bytes": 1526
+    },
+    "朵": {
+      "strokes": 6,
+      "sha256": "7e0a68a2d7aed76b029e501eddd676ef440fb9e69a6b9216029d331ab2106f06",
+      "bytes": 1989
+    },
+    "条": {
+      "strokes": 7,
+      "sha256": "2c7f74285fda0de35698d5dc3339aa0704fea4759862cb4ae2b03942803d6686",
+      "bytes": 2214
+    },
+    "来": {
+      "strokes": 7,
+      "sha256": "ebf3a9165522693077a8f14d25e003565409d8751ff0a4724423315d57d9a57d",
+      "bytes": 1870
+    },
+    "杯": {
+      "strokes": 8,
+      "sha256": "6bb07f43f8043a1b36e7e292651e6348092e0777d44815831e01a9d5694da491",
+      "bytes": 2144
+    },
+    "果": {
+      "strokes": 8,
+      "sha256": "9862414e1eab8e4ff3849cf29145d83bad8c74754c0faff35de284875ece9559",
+      "bytes": 2361
+    },
+    "校": {
+      "strokes": 10,
+      "sha256": "bd810a1cf7fa8216207502a388f4593cce34b71018e8419ecff0b5364147e0bb",
+      "bytes": 2541
+    },
+    "桌": {
+      "strokes": 10,
+      "sha256": "ecc0365660b9cc5f03cfb1b6a3b4a8a54979ff90b84cd91a9dffa5d2b05667d6",
+      "bytes": 2673
+    },
+    "梯": {
+      "strokes": 11,
+      "sha256": "656241e17a37700a155688ecb99f484c399675ac4019eabc9ef47376191c31c4",
+      "bytes": 3315
+    },
+    "椅": {
+      "strokes": 12,
+      "sha256": "5c5bf9d1e0b58d2d1d33134f57b8fdfeca191fd86e89a48940661d427beac0a8",
+      "bytes": 3267
+    },
+    "欢": {
+      "strokes": 6,
+      "sha256": "83016170e79bb66ee07caa185befb9df8ba2a49caa3d167a04149d0120a55e23",
+      "bytes": 2001
+    },
+    "歌": {
+      "strokes": 14,
+      "sha256": "b43ff9d397eb5ec5681c215a52d8f1ecdeefd02bf5755da1c3f1da8e62a5ec41",
+      "bytes": 3894
+    },
+    "正": {
+      "strokes": 5,
+      "sha256": "bd849e7afea904faa4f630cc2f1ca5d05db8cf9023fa7aa73a8d437c53c95a86",
+      "bytes": 1317
+    },
+    "步": {
+      "strokes": 7,
+      "sha256": "a3c79da4718987eadbc5e969cb20b6fd595dbf524962caf337b4ae80d027b900",
+      "bytes": 1839
+    },
+    "母": {
+      "strokes": 5,
+      "sha256": "6933626e85e8a84335dbd2e3de8381d472499b9addf6804e8f49714a134aa4e5",
+      "bytes": 1909
+    },
+    "每": {
+      "strokes": 7,
+      "sha256": "bcbbd765c9a10e92cd61fb2067c038146c25e3cc7f129e727368fa82ed69e22a",
+      "bytes": 2487
+    },
+    "毛": {
+      "strokes": 4,
+      "sha256": "3c8090a06192de74be5f07b8fe2cf9d1da5f4e76baa21af64cc6f9e67db6f000",
+      "bytes": 1438
+    },
+    "气": {
+      "strokes": 4,
+      "sha256": "32ebb998c7bd7165e10e781ff52db83e5a3413f01cb70438e2271e99773abf56",
+      "bytes": 1417
+    },
+    "水": {
+      "strokes": 4,
+      "sha256": "46e262a80f2b7da72ea04788d1c19c40339e18beaba16987cc84d55fc257c9e3",
+      "bytes": 1389
+    },
+    "汁": {
+      "strokes": 5,
+      "sha256": "d37367507797fb0e576c5771526a0b023db7e3fed2c541497b7979810f5f2413",
+      "bytes": 1234
+    },
+    "汤": {
+      "strokes": 6,
+      "sha256": "bb6ec73af49c7c19652dec4b841830670a8b95c0f0e47fb3f03323ea54d55bbf",
+      "bytes": 2237
+    },
+    "没": {
+      "strokes": 7,
+      "sha256": "74ed15d6773e229478cdc30bfa283dab5b2ccbaa1c7f6cfd338b0ae20216dbb6",
+      "bytes": 2272
+    },
+    "河": {
+      "strokes": 8,
+      "sha256": "3359ae1e8008f21472d997ddb66d6dd743a1896e7dceed3f31c9dd5565a473c5",
+      "bytes": 2092
+    },
+    "法": {
+      "strokes": 8,
+      "sha256": "0150a3f02c12340a72a1d73457c2d7ad43c6dfbe064083e73b53df7d13de557d",
+      "bytes": 2172
+    },
+    "泡": {
+      "strokes": 8,
+      "sha256": "a866d9a73f17777480f6e643efeda2054397323d929376455abefee73e5377e4",
+      "bytes": 2584
+    },
+    "洗": {
+      "strokes": 9,
+      "sha256": "8bfbd8a3da7a32921c855099c1f2891af1791500330a58bc941b54241219fade",
+      "bytes": 2486
+    },
+    "清": {
+      "strokes": 11,
+      "sha256": "71fb2fe6a794a3bd0871a01d1f9a3087247d43d2e620b3cf5436752eb17137b5",
+      "bytes": 2995
+    },
+    "游": {
+      "strokes": 12,
+      "sha256": "72069ad8d41327e5e7bf5a5323c7d998d7a2217a675ab72ce9c7a38de4024dad",
+      "bytes": 3333
+    },
+    "火": {
+      "strokes": 4,
+      "sha256": "09fc0a54adb11753319f5750dcdc127698dfb8a453f1a57b5f11b6a1ee3c64e0",
+      "bytes": 1137
+    },
+    "点": {
+      "strokes": 9,
+      "sha256": "1b5b5cd89627b1800adddb7448516283d5cb178ad1df187b3764c12aaa2d87cf",
+      "bytes": 2061
+    },
+    "爪": {
+      "strokes": 4,
+      "sha256": "fffe24791281e95c13002d70b400abe7731a6d1df207fb74c156fc008ba482ad",
+      "bytes": 1286
+    },
+    "爱": {
+      "strokes": 10,
+      "sha256": "26312d0cf150b55c961e890c2a205f5143a185bd2c7337c9c3622040d61489c4",
+      "bytes": 3087
+    },
+    "父": {
+      "strokes": 4,
+      "sha256": "7a5ff74de6fcb7dcbd8c8673bebe17b239eab65534abc235e68944b1500f7fd5",
+      "bytes": 1201
+    },
+    "爷": {
+      "strokes": 6,
+      "sha256": "4b14dfbd26ec432f4bfa4d2ea6e9f666430d7b29b3cae31b07e4392c5e8536ce",
+      "bytes": 1923
+    },
+    "爸": {
+      "strokes": 8,
+      "sha256": "fa40233458f9a517bcfedea1595d348831af8f73be08fe45a9554b28c59de25c",
+      "bytes": 2529
+    },
+    "片": {
+      "strokes": 4,
+      "sha256": "6952beb0745e6dc5a1d56ea31a80c271986d2af59e0cda16c7e478ea6c2de640",
+      "bytes": 1256
+    },
+    "牙": {
+      "strokes": 4,
+      "sha256": "9e6edbc8741cfc6d0e36e7e354091f02052b77f7a40bf218c74e241812e342b3",
+      "bytes": 1332
+    },
+    "牛": {
+      "strokes": 4,
+      "sha256": "cb0c578ebb919ca2ad759cc8a79159f1eff623ae7f57dacca26a1bbbc523ab98",
+      "bytes": 1271
+    },
+    "物": {
+      "strokes": 8,
+      "sha256": "1546208b431d6d5e2a263678e988d4cf70214ad2e3da5da9825f5a23eab1de2c",
+      "bytes": 2799
+    },
+    "狗": {
+      "strokes": 8,
+      "sha256": "ce363f0ad41d9ccaec3d87204894a834c9f332a8e9af78d6db33281a07c3bcca",
+      "bytes": 2585
+    },
+    "狮": {
+      "strokes": 9,
+      "sha256": "555b2d91cb1da4faaea1a56923f7b8af0f3b304f605927dd35b01e534fa08e4e",
+      "bytes": 2918
+    },
+    "猫": {
+      "strokes": 11,
+      "sha256": "f4ec6d5464a2fc431779ec654c25efd4c0816180253d048daa2897075a4ad6fd",
+      "bytes": 3363
+    },
+    "王": {
+      "strokes": 4,
+      "sha256": "0cae737cee78a605967be1c36bd978fa68bd54c75799992f3f230d941e2327a4",
+      "bytes": 1191
+    },
+    "玩": {
+      "strokes": 8,
+      "sha256": "65485d78931a81e1e09a77097b4915fce9442517300ef31ea1909c129b1116bf",
+      "bytes": 2219
+    },
+    "现": {
+      "strokes": 8,
+      "sha256": "488ceab2c1045a151d9caa83b3095e26533bc7df22294d167c2bcdcbec17effa",
+      "bytes": 2495
+    },
+    "球": {
+      "strokes": 11,
+      "sha256": "ed45c7a2a161f4ee3cb9173044d0d366ae08419048c096e6619af2c9c289095b",
+      "bytes": 2782
+    },
+    "瓜": {
+      "strokes": 5,
+      "sha256": "cebc4c9aba61f4fa5f9cac84c83617cdcd738fb1b91446f9396a32b245423903",
+      "bytes": 1565
+    },
+    "甘": {
+      "strokes": 5,
+      "sha256": "d2fc3d37ab57ba8ac80166e2764615b154378742861be49dcd3d3fbee7878297",
+      "bytes": 1667
+    },
+    "甜": {
+      "strokes": 11,
+      "sha256": "4b34f16b8da6a211d33830c81c672389f7a334e06c27e6d2590d7009cfdf1d80",
+      "bytes": 3183
+    },
+    "生": {
+      "strokes": 5,
+      "sha256": "dbe556919f5c0a95448c40997dfce35ad56ebf26d874218e7076d8c12374cfd8",
+      "bytes": 1431
+    },
+    "用": {
+      "strokes": 5,
+      "sha256": "a6e1dbddb1d80001248a0f332d0be070fd7d42353771bd90e10fa01872812bf9",
+      "bytes": 1704
+    },
+    "田": {
+      "strokes": 5,
+      "sha256": "d2441470ac4a6c9ea680389bc770cb60f9c29b6819863ebcc39df2b89cea7f04",
+      "bytes": 1582
+    },
+    "甲": {
+      "strokes": 5,
+      "sha256": "2825d8de245b1f0c8fb33b03ffcfaa37bca974d33a23054b8b70a0d31daf87f4",
+      "bytes": 1581
+    },
+    "电": {
+      "strokes": 5,
+      "sha256": "bbf199bee650b38f1d1b1da68a0c8f0eed59bdfce2302cd2abe0c5a115896850",
+      "bytes": 1969
+    },
+    "男": {
+      "strokes": 7,
+      "sha256": "e380887b51e1d07f5ab62b3b366bf9a2bb28968bd2e8217f20c34ef3e2b087b2",
+      "bytes": 2435
+    },
+    "画": {
+      "strokes": 8,
+      "sha256": "db1e775413384d5c3258a4cb5017bd923e1ce78c07ca857fcd6542ba6601db57",
+      "bytes": 2337
+    },
+    "白": {
+      "strokes": 5,
+      "sha256": "a3858cdfb3a8d08b8046aa4e8c9161dac017119c8f7986e52c9e6752d1721f2e",
+      "bytes": 1572
+    },
+    "的": {
+      "strokes": 8,
+      "sha256": "d9a067e65c8c3770d5559d42bd2bc564b8e133d8fa3dc237d9c4a317adfbb32f",
+      "bytes": 2574
+    },
+    "皮": {
+      "strokes": 5,
+      "sha256": "0a18effe9f6f9fa7facd4e1abac5dc1f2b05a88dfd882532cfd5e717e660e46d",
+      "bytes": 1872
+    },
+    "盒": {
+      "strokes": 11,
+      "sha256": "9b2b88ed481c8f4d8094c6e2b2315d4954fa2388a210f427c331a68eeda6df4c",
+      "bytes": 2945
+    },
+    "目": {
+      "strokes": 5,
+      "sha256": "f5392f6be0cba05d57c6b9cdb111ad402415e57e886e491a18fbeda6d0206a6b",
+      "bytes": 1554
+    },
+    "直": {
+      "strokes": 8,
+      "sha256": "b8411fd6e610814d65a7ad51ce103c143d916fcdaa78370dd3bf03a14a5e48d2",
+      "bytes": 2173
+    },
+    "看": {
+      "strokes": 9,
+      "sha256": "bff5e00542da2f3cd5b343172777fa10c888e336224b42b8cb62c71978a7cbd4",
+      "bytes": 2718
+    },
+    "眼": {
+      "strokes": 11,
+      "sha256": "9abb21d5ba61a27f7850a223bdce134cf23d8a8a82b42b17967a70b84f0ee9f8",
+      "bytes": 3093
+    },
+    "着": {
+      "strokes": 11,
+      "sha256": "ce3118cbf857ad7a167d807ef22b206c7e27c95e6ff1ecf2f823a152f777b117",
+      "bytes": 2966
+    },
+    "睛": {
+      "strokes": 13,
+      "sha256": "ed500e630453e126a0283937b80c432c112a78ef9fb2f62c6a11d2a8eb148cbe",
+      "bytes": 3689
+    },
+    "短": {
+      "strokes": 12,
+      "sha256": "72dba1c53031556c2b06624c3df2f75ffd92190245a75727ad7d82de9bea8542",
+      "bytes": 3188
+    },
+    "石": {
+      "strokes": 5,
+      "sha256": "ee18a323fc63c0f4dd0f00477102c547a670c75ae2e3f38c9cb5b1985609b2b3",
+      "bytes": 1374
+    },
+    "碗": {
+      "strokes": 13,
+      "sha256": "645ca40d5228d2cb916749c207c436bc95bff95d1e4fc8d354b1ede1b982e8e2",
+      "bytes": 3944
+    },
+    "祝": {
+      "strokes": 9,
+      "sha256": "01dc9abc15e84e945895eb23ae6c2ae0fbc23f9eefd8b2260d7828d37d490f0c",
+      "bytes": 2642
+    },
+    "禾": {
+      "strokes": 5,
+      "sha256": "74d7e9274a9b3d02fbb353f424a40988a3f8760bb9f465d834d048eceb7451ae",
+      "bytes": 1433
+    },
+    "穿": {
+      "strokes": 9,
+      "sha256": "af4df201e54d82c75e9f2b7557d2a42d3c10d0553b9de1392a9e2e3f6112e259",
+      "bytes": 2653
+    },
+    "立": {
+      "strokes": 5,
+      "sha256": "be3a3135457203801eccfc357d620b742aa025938766395a3944c4f18ebbd295",
+      "bytes": 1219
+    },
+    "站": {
+      "strokes": 10,
+      "sha256": "f9197f8e5679e005e768ac10df064072b3fd0a15f5a5ab66ee4b8749b3edebed",
+      "bytes": 2447
+    },
+    "童": {
+      "strokes": 12,
+      "sha256": "1e2b1b9233e299160217eaeeeac67c0656d35a22dc987d469f1943770e600554",
+      "bytes": 3166
+    },
+    "竹": {
+      "strokes": 6,
+      "sha256": "038ede060ba5a500666f4c34051cdd760a3f7f122f04c4f4b040046a0a02e39d",
+      "bytes": 1799
+    },
+    "笑": {
+      "strokes": 10,
+      "sha256": "e886c958ac2e7065eda06a6b67dc9bd128613b63b9fc44ac590d530d5af5c513",
+      "bytes": 2451
+    },
+    "笔": {
+      "strokes": 10,
+      "sha256": "89f1e201c5c67fcdd714db847c68eaee2a874de3a9f6340be4171c53b98cffa8",
+      "bytes": 2909
+    },
+    "篮": {
+      "strokes": 16,
+      "sha256": "21e80949fd3dc61cb2e180afcbe8cc754fb4d06ab3af768903fcfde8b842410f",
+      "bytes": 3983
+    },
+    "米": {
+      "strokes": 6,
+      "sha256": "105847e8be1741677145b1e7b7168ba883e9ca3ae1abb7b60a476d430117e88e",
+      "bytes": 1565
+    },
+    "粒": {
+      "strokes": 11,
+      "sha256": "20055b03e8b5c5e29788e14899e4ae501eda26fb20cadcdd66179047ab6cbf05",
+      "bytes": 2609
+    },
+    "红": {
+      "strokes": 6,
+      "sha256": "fd2143da03c1098beeb4d5c7d8789a1b7a345d18b1b73fd451d6a0da7177c301",
+      "bytes": 1728
+    },
+    "练": {
+      "strokes": 8,
+      "sha256": "663f2369b037cfc0a2f58456710cac4b260defba538bc36dbb292884f3405459",
+      "bytes": 2705
+    },
+    "组": {
+      "strokes": 8,
+      "sha256": "0544fc5e32f429970abf5ad5677ccd2c40d6d86791f4063c5c160853648f9c7c",
+      "bytes": 2381
+    },
+    "给": {
+      "strokes": 9,
+      "sha256": "98226e1d98c751b961851e053a3f341ad090b0489c4b31c1f884bc52843e3257",
+      "bytes": 2666
+    },
+    "网": {
+      "strokes": 6,
+      "sha256": "2b9a4ffbc811a9c265fb5d52019c2b1b626aef1190b7be47aecc15d2527fd356",
+      "bytes": 2052
+    },
+    "羊": {
+      "strokes": 6,
+      "sha256": "9f9f43158c9af7617b092a0f9946e3191fb206dced2aa5a3b19c180244362422",
+      "bytes": 1627
+    },
+    "老": {
+      "strokes": 6,
+      "sha256": "f3130d50e757c65792633c581be89788d963819ed0df23380b6c94d5e31bf9d1",
+      "bytes": 2140
+    },
+    "耳": {
+      "strokes": 6,
+      "sha256": "87d23fce6860c1b5600982e241b3ed486e7bededf8d78a674c55ccd8479e4c10",
+      "bytes": 1527
+    },
+    "肉": {
+      "strokes": 6,
+      "sha256": "05c46b453d470ad79c4e38743b0f9e7afa746eacd3793d518b97f18ba0d43c3c",
+      "bytes": 1896
+    },
+    "育": {
+      "strokes": 8,
+      "sha256": "b53c8bb619bd9568d01fc73b414bc7514b74702249c3f444d88a512944f18eb7",
+      "bytes": 2384
+    },
+    "背": {
+      "strokes": 9,
+      "sha256": "0012b081884e00a9fb2c39ff2e5e6d84261a0085ae625111e178af629b4ef948",
+      "bytes": 2753
+    },
+    "脸": {
+      "strokes": 11,
+      "sha256": "df6df3801927d50ec8db943b4f66e3dc396a23f5ce2fb784be802b2b4a1bde29",
+      "bytes": 2929
+    },
+    "自": {
+      "strokes": 6,
+      "sha256": "440fa4d045ea9dad8643485ae45df8c446e03d91296923ece78e07695739ba90",
+      "bytes": 1709
+    },
+    "臭": {
+      "strokes": 10,
+      "sha256": "254f9843325a01c63d8661315ae6ea9d2ef30cde10247b8474b5b494e228d2a6",
+      "bytes": 2753
+    },
+    "舌": {
+      "strokes": 6,
+      "sha256": "b2ed3b5dc48c556b378212a0b67b2d4b6e452a7adc4d2cc2b0b385a9247def16",
+      "bytes": 1640
+    },
+    "色": {
+      "strokes": 6,
+      "sha256": "42da4bb8eb6b22d796e73b226c71c1ceb5486d1cd31df3d1963c31e712f80ab3",
+      "bytes": 2126
+    },
+    "节": {
+      "strokes": 5,
+      "sha256": "5eee7dda2180a3fab348d178c7cac9bd153e3d5ac6ae51e1f66753b90a797935",
+      "bytes": 1731
+    },
+    "花": {
+      "strokes": 7,
+      "sha256": "62f0b92426131b634b393c90e1de91d8f5b321fcd6fc1d7e77a0bf8be5b90e18",
+      "bytes": 2245
+    },
+    "苗": {
+      "strokes": 8,
+      "sha256": "5a55dfff2f22f53e4883285658615d923eb150d91127eba0a225d1382f58a260",
+      "bytes": 2391
+    },
+    "苦": {
+      "strokes": 8,
+      "sha256": "555cabfb3048e897d25428b899da6a7da4a2c426b2ad5c231985da31732a61e9",
+      "bytes": 2290
+    },
+    "草": {
+      "strokes": 9,
+      "sha256": "f9e8c120c5db52608a3a4c03b564c577f54230659c0dae5de4e8d7ad7de82f57",
+      "bytes": 2576
+    },
+    "菜": {
+      "strokes": 11,
+      "sha256": "5e869b26710889875f8947a12fc55cd429352b6e4e3a1bc8792cc6ed496b1634",
+      "bytes": 2813
+    },
+    "落": {
+      "strokes": 12,
+      "sha256": "c93bc437ce73e27706aa245a7431e5e0df3747922180a7cb0c1b4e9132904bfa",
+      "bytes": 3317
+    },
+    "蓝": {
+      "strokes": 13,
+      "sha256": "04cb4fc26bd2c343d4955aa95fdd7139f3a8279993f1f9be7b4b1dcf5d4aa1d3",
+      "bytes": 3485
+    },
+    "虎": {
+      "strokes": 8,
+      "sha256": "8f55d97276486c8b13d15bd92b6ec56fe2fc8516892dca594d9c5bf97d4aa7cc",
+      "bytes": 2945
+    },
+    "虫": {
+      "strokes": 6,
+      "sha256": "7fe903f045c6a90e401b81b859f6aa78a833a62e862110331bfc6d8c0f9a7e2e",
+      "bytes": 1745
+    },
+    "蛋": {
+      "strokes": 11,
+      "sha256": "7a3b56ab5a1d959471f34409f674662a2fb85aec7baf6fd035f522ea215bde0d",
+      "bytes": 3043
+    },
+    "衣": {
+      "strokes": 6,
+      "sha256": "bb83d26ab543feaf262f3da5622aa5d7d35591f36286ad0ef5072ee96d73b7ad",
+      "bytes": 1747
+    },
+    "袜": {
+      "strokes": 10,
+      "sha256": "861c9fc25e744f20c42e7f5dd784d66558666a45a31d2ef0a04aa0b6e67c949a",
+      "bytes": 2766
+    },
+    "被": {
+      "strokes": 10,
+      "sha256": "b316b26dd747608175d7c1faa753c8f666351a4877f403e77ca2693a1576c6f7",
+      "bytes": 3123
+    },
+    "西": {
+      "strokes": 6,
+      "sha256": "f7599c5caa9c04e450f9c5b3e3cdd09523fd675d94f18c85997af05f023171d3",
+      "bytes": 2184
+    },
+    "要": {
+      "strokes": 9,
+      "sha256": "29596cde9e081fafc88b28b84c25d5b0751a272a3db9e8d665c4f6b1015c4e7f",
+      "bytes": 3132
+    },
+    "见": {
+      "strokes": 4,
+      "sha256": "38f248a32907c2061fe800b7217847f07181ec6ecfa421e194e020426b79ec3d",
+      "bytes": 1566
+    },
+    "认": {
+      "strokes": 4,
+      "sha256": "f65b039435d480571159c393baee6e5a879cc7906b1d651a6c6954f22d943af7",
+      "bytes": 1371
+    },
+    "讲": {
+      "strokes": 6,
+      "sha256": "fa6ea1787256f795df93096d5700dfc85072d61f94f2c65ac80616e35f2d5d01",
+      "bytes": 2216
+    },
+    "话": {
+      "strokes": 8,
+      "sha256": "8a3f1e388abfa63dd47acb0d4fc86d5e1c6cf30a82caddb2ca51061a93ea4fcc",
+      "bytes": 2417
+    },
+    "语": {
+      "strokes": 9,
+      "sha256": "0999b4c39dd2763ec6c3386123c8686cb58fcb562f3b8fe681c26fdb348080d6",
+      "bytes": 2667
+    },
+    "说": {
+      "strokes": 9,
+      "sha256": "56144a5cda3da7385c3f7e640985bb69bfa8eda5b22876d08bb05126ff116d2d",
+      "bytes": 2755
+    },
+    "请": {
+      "strokes": 10,
+      "sha256": "6d48bdaeed17674221109997ed3187d71a6c8d7d3549dd277845a18828e2c82c",
+      "bytes": 3109
+    },
+    "课": {
+      "strokes": 10,
+      "sha256": "bc5a3bcf0e757ff72df8ac9c60f236f39addf51b65f1374dbef96e4fa9c2a98c",
+      "bytes": 3047
+    },
+    "谁": {
+      "strokes": 10,
+      "sha256": "e2f893a3be9cb9d77ccb33115dbe7588453ea51b2fbc9ef81a5bcec9b2627058",
+      "bytes": 2900
+    },
+    "谢": {
+      "strokes": 12,
+      "sha256": "9f68c6a28d3632f77ac32ea4d31945ed760b8d98a133e7516a11854991de1f39",
+      "bytes": 3404
+    },
+    "豆": {
+      "strokes": 7,
+      "sha256": "cbe442dcce7675f367fdc0c193e610bd5a8a6c55e9c7e015b4589bb8f7a4301a",
+      "bytes": 1730
+    },
+    "象": {
+      "strokes": 11,
+      "sha256": "88a690170ebe667dda58f7cc10493055cb8701da41ef8dba2b57eff56918fccc",
+      "bytes": 3329
+    },
+    "贝": {
+      "strokes": 4,
+      "sha256": "01a852cf0c38d7f054c83b9007bcdcf876127352aa595267aa0600bfd26bcb6f",
+      "bytes": 1314
+    },
+    "走": {
+      "strokes": 7,
+      "sha256": "2d73ebc4b90cdf561408b3deb5948509048f2c7a49fb005c80c6bdc001ff24a7",
+      "bytes": 1835
+    },
+    "起": {
+      "strokes": 10,
+      "sha256": "a5301507b7db54210b4c2ff8ddd07489329117e7dd2e9b527cb595dc6f709c8c",
+      "bytes": 2902
+    },
+    "足": {
+      "strokes": 7,
+      "sha256": "5261cef041c9bcca1db60469259e7f033ae7fc5a86b6a929ba5ddb15010e0742",
+      "bytes": 1809
+    },
+    "跑": {
+      "strokes": 12,
+      "sha256": "42826e86df28e7b66c93fa17987c0af1287dee65f4122310a60a1674dbb94959",
+      "bytes": 3686
+    },
+    "身": {
+      "strokes": 7,
+      "sha256": "a7ca66f13f6d4885442641f1eb3bd4b07c603f7dbb238791f62eb842cfe18baf",
+      "bytes": 2099
+    },
+    "躲": {
+      "strokes": 13,
+      "sha256": "318eadc3ee5d46be20e4cb55dc59a794e2e2cfb26bf02f6b196cfee8a8327de3",
+      "bytes": 3797
+    },
+    "车": {
+      "strokes": 4,
+      "sha256": "7f863fb9a5d558ea337928cdd50c65be932c4a35fbde2cf28bfda48f8a438ac8",
+      "bytes": 1577
+    },
+    "边": {
+      "strokes": 5,
+      "sha256": "438159da28398664d643d5d2d980aa8445544174558dc1c59dd8a920df3a657a",
+      "bytes": 2080
+    },
+    "过": {
+      "strokes": 6,
+      "sha256": "b9e2c31965165d4c2a39de98e5730ed7f386da69b72c1073214c36c26905e8d9",
+      "bytes": 2021
+    },
+    "近": {
+      "strokes": 7,
+      "sha256": "5548b4cabaeeb00b23b3c0b5134cdc9190b825c50c6eac1937ad3ee7df61d886",
+      "bytes": 2277
+    },
+    "还": {
+      "strokes": 7,
+      "sha256": "77864aaf3e6d0d31f184a55083b9be223f0bb8c1a9fee89b5f59ff7314a94890",
+      "bytes": 2164
+    },
+    "这": {
+      "strokes": 7,
+      "sha256": "6e1b5fc05d9c852cf1f19e48fa67366b2bee3e462be22dfe37ad3ceb08c46eb6",
+      "bytes": 2202
+    },
+    "进": {
+      "strokes": 7,
+      "sha256": "286b549e1cbf2ff794325e561da3df20cc29ebab683ab3921a7d099547433cc6",
+      "bytes": 2527
+    },
+    "送": {
+      "strokes": 9,
+      "sha256": "585655112de1aab9819bd0e612fe8f765248c6473f6524d707f30fceaf73d146",
+      "bytes": 2578
+    },
+    "选": {
+      "strokes": 9,
+      "sha256": "a834500e63154149d9eb4e2ede44aeaa4a3600ecb74067dad3d44a477764d426",
+      "bytes": 2897
+    },
+    "那": {
+      "strokes": 6,
+      "sha256": "a2c276669b5820897a8e20bd10fcede3062f99460bc9a733c65f7875d3197ea5",
+      "bytes": 2386
+    },
+    "都": {
+      "strokes": 10,
+      "sha256": "5fa17c32858a0d8183096756b3789d96e5dcfcf612e4bc60e14b403d772748e1",
+      "bytes": 3289
+    },
+    "采": {
+      "strokes": 8,
+      "sha256": "559e4047f4e76aaead188b7182c3cd348337ecb0b1e99d60afb2d3a8de38f708",
+      "bytes": 2004
+    },
+    "里": {
+      "strokes": 7,
+      "sha256": "5f0d84aa3b6f871759148b105314fd01c4a9019d3234afac345cbbf1ca263d5d",
+      "bytes": 2083
+    },
+    "重": {
+      "strokes": 9,
+      "sha256": "d97075d41122c10e0984164d61b04170df89342adfa615fe28b0234375b4e12f",
+      "bytes": 2824
+    },
+    "长": {
+      "strokes": 4,
+      "sha256": "c99fe3d6a862b82befc528e49164b6bf80d461aa6a4b9c9258f4d3debbc49b81",
+      "bytes": 1476
+    },
+    "门": {
+      "strokes": 3,
+      "sha256": "d37eeb35aa87a9862da22248e0818b203af85258f05c67f9023dfc0d7498ca3c",
+      "bytes": 985
+    },
+    "问": {
+      "strokes": 6,
+      "sha256": "ccdfc03927529be7cfdd6ac29895d53040cff0648b6d087217a8572fa593e4bd",
+      "bytes": 1819
+    },
+    "间": {
+      "strokes": 7,
+      "sha256": "0f53cb30db3bb6104e432ae87831d7c0fe24ec7324fb0affefc70eb2759bb615",
+      "bytes": 2102
+    },
+    "阳": {
+      "strokes": 6,
+      "sha256": "ca20600912885d6c19c13d1462dd1bb23c6c62bd30b174d9f71abcc5516adcb2",
+      "bytes": 2150
+    },
+    "阿": {
+      "strokes": 7,
+      "sha256": "d3a9c1ab3c03054bdbbe08045edf169c75529bc2354ad383944ac51e86ebb2d7",
+      "bytes": 2327
+    },
+    "附": {
+      "strokes": 7,
+      "sha256": "786d9dde60b066d65935613eca39414a1254a4daeb5941b444473f32d76976d8",
+      "bytes": 2438
+    },
+    "雨": {
+      "strokes": 8,
+      "sha256": "0e249bab348c40874b194b2ba75aa185961bd190ca2e09c9a4c303aa34f62e2c",
+      "bytes": 2342
+    },
+    "雷": {
+      "strokes": 13,
+      "sha256": "a8a23498daa78b0e608750c119ece9c85ba6c207fa18f0f75668b9a0d6a5e915",
+      "bytes": 3384
+    },
+    "青": {
+      "strokes": 8,
+      "sha256": "cea73597fcae7b6896e4902c574cf2dbfd1b30db6e1d60f17188cb72afd21089",
+      "bytes": 2530
+    },
+    "面": {
+      "strokes": 9,
+      "sha256": "720049f194a8d51d6cc01669f1319bed7510650a584d7185f0fa289d9f487ca2",
+      "bytes": 2547
+    },
+    "鞋": {
+      "strokes": 15,
+      "sha256": "19b717aff44ac1e62f96e76558b1b93e7397c910fca8e6d547a0b5869e43d323",
+      "bytes": 4320
+    },
+    "风": {
+      "strokes": 4,
+      "sha256": "64177681c0214a2908853526000dc3bb8fd8d9489da7fe373a0330c38d0aee0d",
+      "bytes": 1588
+    },
+    "飞": {
+      "strokes": 3,
+      "sha256": "dbc770bc5fa91957ce1b1b171a493dcff730f430c1df765c1ce59cf7d3496ba4",
+      "bytes": 1109
+    },
+    "饭": {
+      "strokes": 7,
+      "sha256": "cc1fa66270ac4250e36825e9c45d7af0b43a5ae271483fc15dfc14fd95a60026",
+      "bytes": 2442
+    },
+    "饱": {
+      "strokes": 8,
+      "sha256": "57be70aec8a1834a475432db6b764f22386faa78357464cce29689bc757bd2b4",
+      "bytes": 3012
+    },
+    "饼": {
+      "strokes": 9,
+      "sha256": "4abcb3a37367215dc9c804a371e82578b12d993b26a9df8f6adcadce59115205",
+      "bytes": 2817
+    },
+    "饿": {
+      "strokes": 10,
+      "sha256": "5f7b99d242a4b95593888f50113ee00fb46c289226fc13d60c9088ac3ab36601",
+      "bytes": 3372
+    },
+    "香": {
+      "strokes": 9,
+      "sha256": "dcde03c089100ff6bfb6ef4b2ee8b234c2b2fc54cbc511a449fc61ebd50db24b",
+      "bytes": 2434
+    },
+    "马": {
+      "strokes": 3,
+      "sha256": "451304b0187c080bcf62115dbd75f19f6306f44e955df59236484e13e031bfc5",
+      "bytes": 1602
+    },
+    "高": {
+      "strokes": 10,
+      "sha256": "99d078f0a742511e3225a994169678c2b35ed42d4a39e4f5c41946c1e4c04567",
+      "bytes": 2729
+    },
+    "鱼": {
+      "strokes": 8,
+      "sha256": "1f1d05821b3338075b2bb7e29687b51a70945786556799e8700a200073ba18eb",
+      "bytes": 2463
+    },
+    "鸟": {
+      "strokes": 5,
+      "sha256": "2d62bee9f3dce68cead54e04298b7ca9be109f8ebe9c59d356d2f89c38184a33",
+      "bytes": 2056
+    },
+    "鸡": {
+      "strokes": 7,
+      "sha256": "33c721c906b0d67468161d7b107393b775829c540fe26aa0d101dd8f2cdb9d73",
+      "bytes": 2805
+    },
+    "鸭": {
+      "strokes": 10,
+      "sha256": "864452c29eac06e18a4b2cdb7cee834cde18801f1bcb95d45c7e8a9a87eb2264",
+      "bytes": 3478
+    },
+    "黑": {
+      "strokes": 12,
+      "sha256": "5bd1451a45e6781326726ce7d2d30352f8495993e4aeef2f7af32afaf45f3cda",
+      "bytes": 2945
+    }
+  }
+}

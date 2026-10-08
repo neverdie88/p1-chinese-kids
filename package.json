@@ -1,0 +1,17 @@
+{
+  "name": "p1-chinese-kids",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A small, source-linked Singapore Primary 1 Chinese learning app.",
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node --test test/*.test.mjs",
+    "check:source": "node --test test/curriculum.test.mjs"
+  },
+  "engines": {
+    "node": ">=20.12"
+  }
+}
